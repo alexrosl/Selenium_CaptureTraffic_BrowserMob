@@ -1,0 +1,18 @@
+[INFO  2019-01-20T12:41:11,975 net.lightbody.bmp.proxy.Main] (main) Starting BrowserMob Proxy version 2.1.4 
+[INFO  2019-01-20T12:41:12,068 org.eclipse.jetty.util.log] (main) jetty-7.x.y-SNAPSHOT 
+[INFO  2019-01-20T12:41:12,116 org.eclipse.jetty.util.log] (main) started o.e.j.s.ServletContextHandler{/,null} 
+[INFO  2019-01-20T12:41:12,307 org.eclipse.jetty.util.log] (main) Started SelectChannelConnector@0.0.0.0:8080 
+[INFO  2019-01-20T12:41:22,337 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp746115872-18) Starting proxy at address: 0.0.0.0/0.0.0.0:8081 
+[INFO  2019-01-20T12:41:22,388 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp746115872-18) Proxy listening with TCP transport 
+[INFO  2019-01-20T12:41:22,459 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp746115872-18) Proxy started at address: /0:0:0:0:0:0:0:0:8081 
+[INFO  2019-01-20T12:41:42,547 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp746115872-15) Starting proxy at address: 0.0.0.0/0.0.0.0:8082 
+[INFO  2019-01-20T12:41:42,563 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp746115872-15) Proxy listening with TCP transport 
+[INFO  2019-01-20T12:41:42,565 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp746115872-15) Proxy started at address: /0:0:0:0:0:0:0:0:8082 
+[INFO  2019-01-20T12:42:36,013 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp746115872-17) Shutting down proxy server gracefully 
+[INFO  2019-01-20T12:42:36,013 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp746115872-16) Shutting down proxy server gracefully 
+[INFO  2019-01-20T12:42:36,014 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp746115872-17) Closing all channels (graceful) 
+[INFO  2019-01-20T12:42:36,014 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp746115872-16) Closing all channels (graceful) 
+[INFO  2019-01-20T12:42:36,019 org.littleshoot.proxy.impl.ServerGroup] (qtp746115872-16) Shutting down server group event loops (graceful) 
+[INFO  2019-01-20T12:42:36,023 org.littleshoot.proxy.impl.ServerGroup] (qtp746115872-17) Shutting down server group event loops (graceful) 
+[INFO  2019-01-20T12:42:38,227 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp746115872-16) Done shutting down proxy server 
+[INFO  2019-01-20T12:42:38,230 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp746115872-17) Done shutting down proxy server 
